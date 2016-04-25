@@ -1,0 +1,13 @@
+﻿Build started 25/04/2016 15:17:25.
+     1>Project "C:\Users\loyl\Desktop\TheEyeTribeDisplay\TheEyeTribeDisplay\TheEyeTribeDisplay.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\loyl\Desktop\TheEyeTribeDisplay\Debug\TheEyeTribeDisplay.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\boost_1_58_0\libs /LIBPATH:C:\opencv\build\x64\vc11\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\loyl\Desktop\TheEyeTribeDisplay\Debug\TheEyeTribeDisplay.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\loyl\Desktop\TheEyeTribeDisplay\Debug\TheEyeTribeDisplay.lib" /MACHINE:X86 Debug\gazeapi.obj
+         Debug\gazeapi_parser.obj
+         Debug\gazeapi_socket.obj
+         Debug\EyeTracker.obj
+     1>LINK : fatal error LNK1104: cannot open file 'libboost_system-vc110-mt-gd-1_58.lib'
+     1>Done Building Project "C:\Users\loyl\Desktop\TheEyeTribeDisplay\TheEyeTribeDisplay\TheEyeTribeDisplay.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.65
